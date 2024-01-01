@@ -1,4 +1,4 @@
-import time
+import time #to use time module
 import pandas as pd
 import numpy as np
 
